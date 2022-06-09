@@ -12,4 +12,5 @@ Technologies used:
 
 The code uses the MVC architecture:
 The code is divided into controllers, models, routers, public, views as well as the app.js itself
-# virtual-doctor
+#
+# Website video presentation: https://drive.google.com/file/d/1YUtciiyhdKWNFu_1X7yV0_fLI8JaNE7x/view?usp=sharing
